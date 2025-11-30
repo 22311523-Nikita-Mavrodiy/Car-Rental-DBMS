@@ -21,6 +21,16 @@ Please follow these steps after joining the GitHub repository and Supabase proje
 
 6. All query outputs must include screenshots (saved in /screenshots or uploaded directly in the report later)
 
+# Required Deliverables:
+
+* Insert / update / delete sample data (DML)
+
+* Write SQL queries (at least 15) using joins, functions, subqueries, grouping, ordering
+
+* Prepare report sections (Introduction, Database section, Queries section)
+
+Details for each task are available on the GitHub project board.
+
 
 # ERD Diagram
 <img width="1131" height="628" alt="image" src="https://github.com/user-attachments/assets/2eb7ae1b-9791-4eff-816a-cc1f94e3e7cc" />
@@ -35,10 +45,6 @@ Please follow these steps after joining the GitHub repository and Supabase proje
 # Tasks & Next Steps
 Required Deliverables:
 
-Insert / update / delete sample data (DML)
 
-Write SQL queries (at least 15) using joins, functions, subqueries, grouping, ordering
-
-Prepare report sections (Introduction, Database section, Queries section)
 
 
