@@ -9,7 +9,7 @@ In this project, you are asked to design and implement a database that will stor
 # Relational Model
 
 <img width="1542" height="815" alt="image" src="https://github.com/user-attachments/assets/0959c3f5-685f-40aa-806d-ac6067c2a3e2" />
-<img width="1181" height="812" alt="image" src="https://github.com/user-attachments/assets/edab5721-4e1d-4686-a17e-be04d82d2d6c" />
+<img width="1239" height="850" alt="image" src="https://github.com/user-attachments/assets/06dbd5a3-900f-40fc-91de-32bffa95a058" />
 
 
 # ERD Diagram
