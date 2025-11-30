@@ -21,6 +21,19 @@ Please follow these steps after joining the GitHub repository and Supabase proje
 
 6. All query outputs must include screenshots (saved in /screenshots or uploaded directly in the report later)
 
+# Supabase Instructions (For Team Members)
+
+We use Supabase PostgreSQL as the online database for this project.
+
+How to Use Supabase:
+- Accept the email invite to join the project
+- Go to Supabase → Project → SQL Editor
+- Run your DML (insert/update/delete) and SQL queries there
+- After running queries, take screenshots of results
+- Save your queries as .sql files in GitHub
+Do not modify the schema (tables).
+Only insert/update/delete data and run SELECT queries.
+
 # Required Deliverables:
 
 * Insert / update / delete sample data (DML)
