@@ -2,7 +2,7 @@
 This repository contains all work for our university Car Rental Database Management System project.
 
 CMPE343 Database Management Systems and Programming I
-Instructor: Prof Dr Melike Şah Direkoğlu and Assis Prof Dr Yasemin Bay Project (15%) Report Due Date: 21th of December 2025
+
 Project Presentations: Between 22-30 December 2025
 
 # ERD Diagram
