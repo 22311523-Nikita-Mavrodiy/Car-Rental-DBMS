@@ -59,8 +59,6 @@ Details for each task are available on the GitHub project board.
 <img width="1239" height="850" alt="image" src="https://github.com/user-attachments/assets/06dbd5a3-900f-40fc-91de-32bffa95a058" />
 
 
-# Tasks & Next Steps
-Required Deliverables:
 
 
 
