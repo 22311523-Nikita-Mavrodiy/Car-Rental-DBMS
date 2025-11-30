@@ -4,8 +4,23 @@ This repository contains all work for our university Car Rental Database Managem
 CMPE343 Database Management Systems and Programming I
 
 Report Due Date: 21th of December 2025
-
 Project Presentations: Between 22-30 December 2025
+
+#Project Instructions for Team Members
+Please follow these steps after joining the GitHub repository and Supabase project:
+
+1. Go to GitHub → Projects → Board
+
+2. Choose any task labeled Available
+
+3. Move it to "In Progress" while you work
+
+4. After completing a task, upload your work to the repo and move the task to "In review"
+
+5. All SQL work (DML + queries) must be executed in Supabase and also saved in the repository as .sql files
+
+6. All query outputs must include screenshots (saved in /screenshots or uploaded directly in the report later)
+
 
 # ERD Diagram
 <img width="1131" height="628" alt="image" src="https://github.com/user-attachments/assets/2eb7ae1b-9791-4eff-816a-cc1f94e3e7cc" />
