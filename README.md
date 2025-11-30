@@ -14,4 +14,5 @@ In this project, you are asked to design and implement a database that will stor
 
 
 # ERD Diagram
-(in progress)
+<img width="1131" height="628" alt="image" src="https://github.com/user-attachments/assets/2eb7ae1b-9791-4eff-816a-cc1f94e3e7cc" />
+
