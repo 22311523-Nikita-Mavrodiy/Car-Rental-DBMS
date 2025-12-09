@@ -62,7 +62,7 @@ CREATE TABLE Payments (
     rental_id INTEGER NOT NULL,
     payment_date DATE NOT NULL,
     amount DECIMAL(10,2) NOT NULL CHECK (amount > 0),
-    method VARCHAR(20) NOT NULL CHECK (method IN ('Cash', 'Credit', 'Online')),
+    method VARCHAR(20) NOT NULL CHECK (method IN ('Cash', 'Card')),
     FOREIGN KEY (rental_id) REFERENCES Rentals(rental_id)
 );
 
