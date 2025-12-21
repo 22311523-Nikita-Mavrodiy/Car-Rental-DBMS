@@ -4,8 +4,7 @@ CMPE343 Database Management Systems and Programming I
 - Report Due Date: 21th of December 2025
 - Project Presentations: Between 22-30 December 2025
   
-# Our REPORT
-https://github.com/22311523-Nikita-Mavrodiy/Car-Rental-DBMS/blob/main/Car_Rental_DBMS_Report.pdf
+# [Click here to see the report](https://github.com/22311523-Nikita-Mavrodiy/Car-Rental-DBMS/blob/main/Car_Rental_DBMS_Report.pdf)
 
 Team members:
 - 22311523 Nikita Mavrodiy
